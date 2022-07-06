@@ -1,2 +1,2 @@
 # FM＋＋のダウンロードスクリプト
-https://pastebin.com/gQ0Ay2aN
+# https://kemasoft.net/?scr/fmplapla
